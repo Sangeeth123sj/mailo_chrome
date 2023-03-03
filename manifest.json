@@ -1,11 +1,12 @@
 {
-  "short_name": "Mailo-test",
-  "name": "Mailo-test",
+  "short_name": "Mailo",
+  "name": "Mailo",
   "icons": {
     "16": "Mail.png",
     "48": "Mail.png",
    "128": "Mail.png"
   },
+  "description": "Mailo is an email generating Chrome extension, just type in the keywords of the mail you need to create and it gives you the perfect mail! Enhance your Gmail experience.",
   "permissions": [
     "https://mail.google.com/*",
     "activeTab"
